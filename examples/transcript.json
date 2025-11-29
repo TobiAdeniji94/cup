@@ -1,0 +1,75 @@
+{
+  "title": "Product Planning Meeting - Q1 2026",
+  "entries": [
+    {
+      "speaker": "Alice",
+      "timestamp": "00:00:05",
+      "text": "Alright everyone, let's get started. Today we're discussing the MVP scope for Q1."
+    },
+    {
+      "speaker": "Bob",
+      "timestamp": "00:00:15",
+      "text": "Thanks Alice. I've been thinking about this, and I believe we should focus on three core features."
+    },
+    {
+      "speaker": "Alice",
+      "timestamp": "00:00:28",
+      "text": "Go ahead, what are you thinking?"
+    },
+    {
+      "speaker": "Bob",
+      "timestamp": "00:00:32",
+      "text": "First, user authentication. Second, the dashboard. Third, basic reporting."
+    },
+    {
+      "speaker": "Carol",
+      "timestamp": "00:00:45",
+      "text": "I agree with auth and dashboard, but should we push reporting to Q2?"
+    },
+    {
+      "speaker": "Bob",
+      "timestamp": "00:00:55",
+      "text": "That's a valid point. Reporting might be too ambitious."
+    },
+    {
+      "speaker": "Alice",
+      "timestamp": "00:01:05",
+      "text": "Let's make a decision here. How about we commit to auth and dashboard for MVP, and reporting becomes a stretch goal?"
+    },
+    {
+      "speaker": "Carol",
+      "timestamp": "00:01:18",
+      "text": "That works for me. Who's owning each piece?"
+    },
+    {
+      "speaker": "Bob",
+      "timestamp": "00:01:25",
+      "text": "I can take auth. I've done OAuth integrations before."
+    },
+    {
+      "speaker": "Carol",
+      "timestamp": "00:01:32",
+      "text": "I'll handle the dashboard then."
+    },
+    {
+      "speaker": "Alice",
+      "timestamp": "00:01:38",
+      "text": "Perfect. So to summarize: MVP ships March 5th with auth and dashboard. Bob owns auth, Carol owns dashboard. Reporting is stretch goal. Any risks we should flag?"
+    },
+    {
+      "speaker": "Bob",
+      "timestamp": "00:01:55",
+      "text": "One risk - we need the design specs by end of this week or we'll slip."
+    },
+    {
+      "speaker": "Carol",
+      "timestamp": "00:02:05",
+      "text": "I'll follow up with the design team today."
+    },
+    {
+      "speaker": "Alice",
+      "timestamp": "00:02:12",
+      "text": "Great. Let's sync again next Tuesday. Meeting adjourned."
+    }
+  ]
+}

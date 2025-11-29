@@ -1,0 +1,43 @@
+1
+00:00:05,000 --> 00:00:08,500
+Alice: Welcome everyone to our quarterly review.
+
+2
+00:00:09,000 --> 00:00:12,000
+Alice: Let's start with the sales numbers.
+
+3
+00:00:12,500 --> 00:00:16,000
+Bob: Thanks Alice. Q3 was our best quarter yet.
+
+4
+00:00:16,500 --> 00:00:20,000
+Bob: We hit 120% of our target revenue.
+
+5
+00:00:20,500 --> 00:00:24,000
+Carol: That's amazing! What drove the growth?
+
+6
+00:00:24,500 --> 00:00:28,500
+Bob: Mostly the enterprise deals we closed in September.
+
+7
+00:00:29,000 --> 00:00:33,000
+Bob: The Acme Corp deal alone was worth 2 million.
+
+8
+00:00:33,500 --> 00:00:37,000
+Alice: Great work team. What about Q4 projections?
+
+9
+00:00:37,500 --> 00:00:41,000
+Bob: We're targeting 15% growth over Q3.
+
+10
+00:00:41,500 --> 00:00:45,000
+Carol: I think that's achievable with our current pipeline.
+
+11
+00:00:45,500 --> 00:00:49,000
+Alice: Perfect. Let's make it happen.

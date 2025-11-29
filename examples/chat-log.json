@@ -1,0 +1,66 @@
+{
+  "title": "Sales Team Discussion",
+  "channel": "#sales-team",
+  "messages": [
+    {
+      "user": "sarah.jones",
+      "ts": "1706540400.000100",
+      "text": "Hey team, just got off a call with Acme Corp. They're interested in the enterprise plan!"
+    },
+    {
+      "user": "mike.chen",
+      "ts": "1706540460.000200",
+      "text": "That's great news! What's their timeline?"
+    },
+    {
+      "user": "sarah.jones",
+      "ts": "1706540520.000300",
+      "text": "They want to close by end of Q1. Budget is approved."
+    },
+    {
+      "user": "lisa.park",
+      "ts": "1706540580.000400",
+      "text": "Nice! Do they need a custom demo?"
+    },
+    {
+      "user": "sarah.jones",
+      "ts": "1706540640.000500",
+      "text": "Yes, they specifically asked about the API integration capabilities."
+    },
+    {
+      "user": "mike.chen",
+      "ts": "1706540700.000600",
+      "text": "I can help with that. Let me put together some API examples for their use case."
+    },
+    {
+      "user": "sarah.jones",
+      "ts": "1706540760.000700",
+      "text": "Perfect. Can you have that ready by Thursday? The demo is Friday."
+    },
+    {
+      "user": "mike.chen",
+      "ts": "1706540820.000800",
+      "text": "Thursday works. I'll also loop in engineering in case they have technical questions."
+    },
+    {
+      "user": "lisa.park",
+      "ts": "1706540880.000900",
+      "text": "Should we bring up the pricing discussion? They might ask for a discount."
+    },
+    {
+      "user": "sarah.jones",
+      "ts": "1706540940.001000",
+      "text": "Good point. I'll check with finance on what discount range we can offer for annual commits."
+    },
+    {
+      "user": "mike.chen",
+      "ts": "1706541000.001100",
+      "text": "Last enterprise deal we did 15% for 2-year commitment. That might be a good benchmark."
+    },
+    {
+      "user": "sarah.jones",
+      "ts": "1706541060.001200",
+      "text": "Thanks Mike. I'll use that as a starting point. Let's sync tomorrow morning to prep for the demo."
+    }
+  ]
+}

@@ -21,3 +21,5 @@ npm-debug.log*
 
 # Drizzle
 drizzle/meta/
+
+requests.http
